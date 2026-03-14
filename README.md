@@ -32,7 +32,12 @@ ROC-AUC ≈ 0.84
 2. Run training pipeline
 3. Launch GUI:
 
-GUI predictions:
+## GUI predictions:
+
+
+
+
+
 ![image](https://github.com/sakshio-o/Cognitive-overload-risk/blob/3acc1c0c283f8aee77e44993371bb7fea461474f/Screenshot%202026-03-14%20214652.png)
 ![image](https://github.com/sakshio-o/Cognitive-overload-risk/blob/3acc1c0c283f8aee77e44993371bb7fea461474f/Screenshot%202026-03-14%20214824.png)
 ![image](https://github.com/sakshio-o/Cognitive-overload-risk/blob/3acc1c0c283f8aee77e44993371bb7fea461474f/Screenshot%202026-03-14%20215008.png)
