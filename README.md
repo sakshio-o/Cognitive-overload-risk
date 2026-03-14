@@ -31,3 +31,9 @@ ROC-AUC ≈ 0.84
 1. Place OULAD CSV files in `data/`
 2. Run training pipeline
 3. Launch GUI:
+
+GUI predictions:
+![image](https://github.com/user/repo/assets/123456/abc123.png)
+![image](https://github.com/user/repo/assets/123456/abc123.png)
+![image](https://github.com/user/repo/assets/123456/abc123.png)
+![image](https://github.com/user/repo/assets/123456/abc123.png)
