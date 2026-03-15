@@ -23,8 +23,8 @@ ROC-AUC ≈ 0.84
 ## Structure
 
 - src/ → source code
-- models/ → trained model (generated locally)
-- data/ → dataset (not included)
+- notebooks/ → trained model
+- data/ → dataset
 
 ## How to Run
 
